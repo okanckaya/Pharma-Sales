@@ -1,6 +1,6 @@
 # Pharma Sales Prediction
 
-In this project it is aimed to estimate pharmaceutical sales 
+In this project it is aimed to estimate pharmaceutical sales for future
 
 from January 2017 to January 2020
 
