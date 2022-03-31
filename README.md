@@ -13,9 +13,3 @@ Within the scope of this repo, a prediction model was developed for the product 
 
 
 
-
-
-
-
-Correlation heatmap
-![image](https://user-images.githubusercontent.com/71854717/161019685-2ce4750b-eeff-4bcf-8580-5ae08e6104f6.png)
