@@ -6,9 +6,9 @@ In this project, it is aimed to estimate the expected sales values in the Januar
 
 The data used in the project have been provided by Eczacıbaşı Bilişim through private interviews and there is no open access to the data.
 
-In the main data set, only the ***product group***, the *province* where the sale was made, the *time* of the sale and the *quantity* are available.
+In the main data set, only the ***product group***, the ***province*** where the sale was made, the ***time*** of the sale and the ***quantity*** are available.
 
-Within the scope of this repo, a prediction model was developed for the product coded X, which is a prostate product developed for male patients over the age of 60.
+Within the scope of this repo, a prediction model was developed for the **Product  X**, which is a prostate product developed for male patients over the age of 60.
 
 
 
