@@ -12,6 +12,17 @@ In the main data set, only the ***product group***, the ***province*** where the
 
 Within the scope of this repo, a prediction model was developed for the **Product  X**, which is a prostate product developed for male patients over the age of 60.
 
-
+Since it is very difficult to predict the output with the existing input variables in the data set, it is clear that new parameters should be added for the product. Considering what might be effective in the sale of a product sold to male patients over 60 years of age, it was thought that adding the following parameters to the data set would have positive effects in terms of giving better results for the prediction model.
+  * Province and time based air temperature
+  * Season
+  * Whether the province is a big city or not
+  * Region (Marmara, Black Sea etc.)
+  * Stock market
+  * Dolar exchange rate
+  * Consumer Price Index (CPI) for year and month
+  * Total male population in the province
+  * Total male population in the rural areas
+  * Google Trend data for "Eczacıbaşı" searchs
+  * Google Trend data for "prostate" searchs
 
 
