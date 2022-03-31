@@ -25,4 +25,6 @@ Since it is very difficult to predict the output with the existing input variabl
   * Google Trend data for "Eczacıbaşı" searchs
   * Google Trend data for "prostate" searchs
 
+## Libraries 
+<img width="656" alt="Screen Shot 2022-03-31 at 16 02 05" src="https://user-images.githubusercontent.com/71854717/161060859-e61970d2-7b62-4145-b7b5-4c1bc79ba44f.png">
 
