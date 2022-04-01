@@ -11,6 +11,10 @@ Since the main data set contains only three variables (period, province and quan
   * Google Trend data for "Eczacıbaşı" searchs
   * Google Trend data for "prostate" searchs
 
-In order to approach the data in a holistic manner on a provincial basis, first of all, the total sales quantity in each province in the specified periods were combined. As a result of the total quantity, it was seen that no sales were made in the specified time intervals in some provinces. For this reason, ***0***  is entered in the quantity column for the specified province and time periods.
+In order to approach the data in a holistic manner on a provincial basis, first of all, the total sales quantity in each province in the specified periods were combined. As a result of the total quantity, it was seen that no sales were made in the specified time intervals in some provinces. For this reason, **0**  is entered in the quantity column for the specified province and time periods.
 
 `ProductX['Quantity'] = ProductX['Quantity'].fillna(0)`
+
+At the same time, the 13th month information in the data set containing the province-based lowest, average and highest air temperatures between January 2017 and April 2020, which was obtained from the General Directorate of Meteorology, was deleted from the data set, considering it to be incorrect.
+
+`df_heat = df_heat[df_heat.Month != 13]`
