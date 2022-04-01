@@ -17,6 +17,12 @@ In order to approach the data in a holistic manner on a provincial basis, first 
 
 At the same time, the 13th month information in the data set containing the province-based lowest, average and highest air temperatures between January 2017 and April 2020, which was obtained from the General Directorate of Meteorology, was deleted from the data set, considering it to be incorrect.
 
+|index|count|mean|std|min|25%|50%|75%|max|
+|---|---|---|---|---|---|---|---|---|
+|Year|4133\.0|2018\.4713283329302|1\.109216472483909|2017\.0|2017\.0|2018\.0|2019\.0|2020\.0|
+|Month|4133\.0|6\.884587466731188|3\.682654333281841|1\.0|4\.0|7\.0|10\.0|13\.0|
+|Med\_Deg|4133\.0|14\.497870796031933|8\.431821284859963|-14\.2|8\.2|14\.5|21\.4|34\.2|
+
 `df_heat = df_heat[df_heat.Month != 13]`
 
 The dataset obtained is as follows:
