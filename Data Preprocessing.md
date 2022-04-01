@@ -19,6 +19,8 @@ At the same time, the 13th month information in the data set containing the prov
 
 `df_heat = df_heat[df_heat.Month != 13]`
 
+The final dataset obtained is as follows:
+
 |index|Period|Province|Month|Year|Season|BigCity|Region|Borsa|DolarB|DolarS|CPI\(Year)|CPI\(Month)|Male|Male\_Province|Male\_Rural|Trends\_Eczacıbaşı|Trends\_Prostat|Quantity|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |0|201701|Adana|1|2017|winter|1|ME|2,379|3,7468|3,7536|9,22|2,46|1101973|1101973|0|6|28|910\.0|
