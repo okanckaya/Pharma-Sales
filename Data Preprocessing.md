@@ -21,7 +21,7 @@ At the same time, the 13th month information in the data set containing the prov
 
 The final dataset obtained is as follows:
 
-|index|Period|Province|Month|Year|Season|BigCity|Region|Borsa|DolarB|DolarS|CPI\(Year)|CPI\(Month)|Male|Male\_Province|Male\_Rural|Trends\_Eczacıbaşı|Trends\_Prostat|Quantity|
+|index|Period|Province|Month|Year|Season|BigCity|Region|StockMarket|DolarB|DolarS|CPI\(Year)|CPI\(Month)|Male|Male\_Province|Male\_Rural|Trends\_Eczacıbaşı|Trends\_Prostat|Quantity|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |0|201701|Adana|1|2017|winter|1|ME|2,379|3,7468|3,7536|9,22|2,46|1101973|1101973|0|6|28|910\.0|
 |1|201701|Adıyaman|1|2017|winter|0|SE|2,379|3,7468|3,7536|9,22|2,46|307819|203955|103865|0|0|44\.0|
