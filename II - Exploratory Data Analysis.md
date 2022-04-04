@@ -1,6 +1,26 @@
 # Data Types 
 
-dsadasdsd
+|Variable|Data Type|
+|---|---|
+|Period|int64|
+|Province|object|
+|Month|int64|
+|Year|int64|
+|Season|object|
+|BigCity|int64|
+|Region|object|
+|StockMarket|float64|
+|DolarB|float64|
+|DolarS|float64|
+|CPI(Year)|float64|
+|CPI(Month)|float64|
+|Male|float64|
+|Male_Province|float64|
+|Male_Rural|float64|
+|Trends_Eczacıbaşı|int64|
+|Trends_Prostat|int64|
+|Quantity|float64|
+|Med_Deg|float64|
 
 # Heat Map
 
