@@ -60,18 +60,31 @@ As can be seen from the graph above, an increasing trend is observed in the sale
 
 The sudden decrease mentioned above can be seen quite clearly in this chart.
 
-|2017|Province|Quantity|2018|Province|Year|Quantity|2019|Province|Year|Quantity|
+|2017|Province|Quantity|2018|Province|Quantity|2019|Province|Quantity|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|77|İstanbul|100631\.0|309|İstanbul|2018|31410\.0|310|İstanbul|2019|39225\.0|
-|5|Ankara|43474\.0|21|Ankara|2018|14295\.0|22|Ankara|2019|14277\.0|
-|29|Gaziantep|35620\.0|117|Gaziantep|2018|11547\.0|118|Gaziantep|2019|12437\.0|
-|78|İzmir|32752\.0|313|İzmir|2018|10303\.0|314|İzmir|2019|11983\.0|
-|44|Konya|25282\.0|177|Konya|2018|9221\.0|178|Konya|2019|9009\.0|
-|9|Aydın|24297\.0|37|Aydın|2018|7996\.0|38|Aydın|2019|8534\.0|
-|0|Adana|23507\.0|1|Adana|2018|7180\.0|2|Adana|2019|7709\.0|
-|61|Samsun|17604\.0|165|Kayseri|2018|6604\.0|246|Samsun|2019|7145\.0|
-|41|Kayseri|17209\.0|25|Antalya|2018|5999\.0|202|Manisa|2019|6443\.0|
-|6|Antalya|16949\.0|81|Bursa|2018|5458\.0|166|Kayseri|2019|6336\.0|
+| |İstanbul|100631\.0| |İstanbul|31410\.0| |İstanbul|39225\.0|
+| |Ankara|43474\.0| |Ankara|14295\.0| |Ankara|14277\.0|
+| |Gaziantep|35620\.0| |Gaziantep|11547\.0| |Gaziantep|12437\.0|
+| |İzmir|32752\.0| |İzmir|10303\.0| |İzmir|11983\.0|
+| |Konya|25282\.0| |Konya|9221\.0| |Konya|9009\.0|
+| |Aydın|24297\.0| |Aydın|7996\.0| |Aydın|8534\.0|
+| |Adana|23507\.0| |Adana|7180\.0| |Adana|7709\.0|
+| |Samsun|17604\.0| |Kayseri|6604\.0| |Samsun|7145\.0|
+| |Kayseri|17209\.0| |Antalya|5999\.0| |Manisa|6443\.0|
+| |Antalya|16949\.0| |Bursa|5458\.0| |Kayseri|6336\.0|
+
+|index|Province|Year|Quantity|
+|---|---|---|---|
+|310|İstanbul|2019|39225\.0|
+|22|Ankara|2019|14277\.0|
+|118|Gaziantep|2019|12437\.0|
+|314|İzmir|2019|11983\.0|
+|178|Konya|2019|9009\.0|
+|38|Aydın|2019|8534\.0|
+|2|Adana|2019|7709\.0|
+|246|Samsun|2019|7145\.0|
+|202|Manisa|2019|6443\.0|
+|166|Kayseri|2019|6336\.0|
 
 ![image](https://user-images.githubusercontent.com/71854717/161552905-ab03f754-caaa-4cda-bd37-e9d5a47b6f72.png)
 
