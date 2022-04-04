@@ -38,3 +38,7 @@ dsadasdsd
 |2019|9|Mardin|1|3\.07|5\.7047|5\.715|9\.26|0\.99|542072\.0|916076\.0|0\.0|0|0|25\.8|-4\.0|
 |2019|9|Çanakkale|0|3\.07|5\.7047|5\.715|9\.26|0\.99|1216490\.0|163780\.0|108566\.0|0|0|23\.4|-1\.0|
 
+# Visualization
+
+Bar plot of Quantity-Region for three years period.
+![image](https://user-images.githubusercontent.com/71854717/161551741-7077a382-85f5-4968-a6e5-b6240bc0aee5.png)
