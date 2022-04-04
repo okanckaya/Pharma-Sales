@@ -41,4 +41,17 @@ dsadasdsd
 # Visualization
 
 Bar plot of Quantity-Region for three years period.
-![image](https://user-images.githubusercontent.com/71854717/161551741-7077a382-85f5-4968-a6e5-b6240bc0aee5.png)
+
+![image](https://user-images.githubusercontent.com/71854717/161552119-7cf74366-ec57-4bb5-958e-b8197609c8e1.png)
+
+![image](https://user-images.githubusercontent.com/71854717/161552172-db2627c9-3046-496e-967a-82da105b30da.png)
+
+![image](https://user-images.githubusercontent.com/71854717/161552229-25eb3e3f-0be6-461c-9c8f-6b1771e339d5.png)
+
+![image](https://user-images.githubusercontent.com/71854717/161552281-89d45e8a-0b9e-42dd-a738-41ab8ebe9033.png)
+
+It can be seen that from the year 2017 to 2019 Product X sold more every year except the excessive decrease on 08-2019 and 09-2019. As a result of the researches, it was thought that a product group similar to Product X was recalled from the market.
+
+![image](https://user-images.githubusercontent.com/71854717/161552354-cacab802-8fb9-4679-964d-ba99d3f8b644.png)
+
+
