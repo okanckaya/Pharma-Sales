@@ -58,8 +58,6 @@ As can be seen from the graph above, an increasing trend is observed in the sale
 
 ![image](https://user-images.githubusercontent.com/71854717/161552681-3d128146-bc07-4eda-afe4-8cbadcfe6489.png)
 
-The sudden decrease mentioned above can be seen quite clearly in this chart.
-
 |2017|Province|Quantity|2018|Province|Quantity|2019|Province|Quantity|
 |---|---|---|---|---|---|---|---|---|
 | |İstanbul|100631\.0| |İstanbul|31410\.0| |İstanbul|39225\.0|
@@ -73,19 +71,21 @@ The sudden decrease mentioned above can be seen quite clearly in this chart.
 | |Kayseri|17209\.0| |Antalya|5999\.0| |Manisa|6443\.0|
 | |Antalya|16949\.0| |Bursa|5458\.0| |Kayseri|6336\.0|
 
-|index|Province|Year|Quantity|
-|---|---|---|---|
-|310|İstanbul|2019|39225\.0|
-|22|Ankara|2019|14277\.0|
-|118|Gaziantep|2019|12437\.0|
-|314|İzmir|2019|11983\.0|
-|178|Konya|2019|9009\.0|
-|38|Aydın|2019|8534\.0|
-|2|Adana|2019|7709\.0|
-|246|Samsun|2019|7145\.0|
-|202|Manisa|2019|6443\.0|
-|166|Kayseri|2019|6336\.0|
-
 ![image](https://user-images.githubusercontent.com/71854717/161552905-ab03f754-caaa-4cda-bd37-e9d5a47b6f72.png)
 
 Bar plot of Quantity-Province for three-year period. It can be seen that densely populated metropolitan areas like Istanbul, Ankara, Gaziantep etc. are on the top of the most-sold list.
+
+2017
+
+![image](https://user-images.githubusercontent.com/71854717/161557020-d99ee870-0731-465b-872b-1da0037f4ffa.png)
+
+2018
+
+![image](https://user-images.githubusercontent.com/71854717/161557154-89ce9d75-d7f6-4226-b3e4-f5b7a73dd052.png)
+
+2019
+
+![image](https://user-images.githubusercontent.com/71854717/161557213-28d83117-9081-4281-9c63-890c8cfd7be2.png)
+
+![image](https://user-images.githubusercontent.com/71854717/161557969-15ef39a6-8a12-426d-8f4f-ec05fb41f5f5.png)
+
