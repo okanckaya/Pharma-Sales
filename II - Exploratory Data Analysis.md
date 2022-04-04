@@ -61,7 +61,7 @@ As can be seen from the graph above, an increasing trend is observed in the sale
 The sudden decrease mentioned above can be seen quite clearly in this chart.
 
 |2017|Province|Quantity|2018|Province|Quantity|2019|Province|Quantity|
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 | |İstanbul|100631\.0| |İstanbul|31410\.0| |İstanbul|39225\.0|
 | |Ankara|43474\.0| |Ankara|14295\.0| |Ankara|14277\.0|
 | |Gaziantep|35620\.0| |Gaziantep|11547\.0| |Gaziantep|12437\.0|
