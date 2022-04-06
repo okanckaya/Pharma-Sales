@@ -68,6 +68,30 @@ Machine Learning algorithms used in these project are:
 
 ## Results for Dataset IV:
 
+|Model|Mean Absolute Error \(Train)|Mean Absolute Error \(Test)|Mean Squared Error \(Train)|Mean Squared Error \(Test)|Root Mean Squared Error \(Train)|Root Mean Squared Error \(Test)|R2 \(Train)|R2 \(Test)|Coefficient of Variance \(Train)|Coefficient of Variance \(Test)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Gradient Boosting|53\.24|132\.64|6313\.23|69834\.71|79\.45|264\.26|0\.95|0\.66|0\.33|1\.05|
+|XGBoost|53\.46|141\.29|6570\.25|72629\.00|81\.05|269\.49|0\.94|0\.64|0\.34|1\.07|
+|Light GBM|30\.42|149\.83|3203\.36|82921\.89|56\.59|287\.96|0\.97|0\.59|0\.23|1\.14|
+|KNN|114\.89|158\.19|47140\.20|97462\.84|217\.1|312\.194|0\.64|0\.52|0\.91|1\.24|
+|Random Forest|16\.35|142\.65|1349\.09|98885\.13|36\.73|314\.46|0\.98|0\.51|0\.15|1\.25|
+|Decision Trees|0\.0|179\.45|0\.0|157599\.72|0\.0|396\.98|1\.0|0\.23|0\.0|1\.57|
+|Gauss NB|78\.59|172\.14|15194\.80|176484\.18|123\.26|420\.10|0\.88|0\.14|0\.51|1\.67|
+|Support Vector Machines|161\.99|192\.80|125956\.51|206386\.132|354\.90|454\.29|0\.04|-0\.00|1\.49|1\.81|
+|Linear Regression|150\.06|189\.38|86551\.05|216091\.75|294\.19|464\.85|0\.33|-0\.05|1\.24|1\.85|
 
+## Results for Dataset V:
+
+|Model|Mean Absolute Error \(Train)|Mean Absolute Error \(Test)|Mean Squared Error \(Train)|Mean Squared Error \(Test)|Root Mean Squared Error \(Train)|Root Mean Squared Error \(Test)|R2 \(Train)|R2 \(Test)|Coefficient of Variance \(Train)|Coefficient of Variance \(Test)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Random Forest|17\.06|95\.57|1055\.68|35783\.47|32\.49|189\.16|0\.99|0\.82|0\.13|0\.75|
+|Decision Trees|0\.0|111\.01|0\.0|42472\.38|0\.0|206\.08|1\.0|0\.79|0\.0|0\.81|
+|Gradient Boosting|56\.05|127\.61|6770\.93|47875\.44|82\.28|218\.80|0\.94|0\.760\.34|0\.87|
+|XGBoost|57\.10|131\.59|7375\.67|48386\.64|85\.88|219\.96|0\.94|0\.76|0\.36|0\.87|
+|Light GBM|34\.74|138\.63|4155\.15|89554\.40|64\.46|299\.25|0\.96|0\.56|0\.27|1\.19|
+|KNN|116\.20|162\.71|49473\.82|112114\.84|222\.42|334\.83|0\.62|0\.45|0\.93|1\.33|
+|Linear Regression|151\.12|174\.64|86939\.00|155223\.93|294\.85|393\.98|0\.33|0\.24|1\.23|1\.56|
+|Gauss NB|82\.65|171\.14|16402\.83|173509\.58|128\.07|416\.54|0\.87|0\.15|0\.53|1\.65|
+|Support Vector Machines|162\.14|192\.53|126162\.40|205677\.51|355\.19|453\.51|0\.03|0\.00|1\.49|1\.80|
 
 Since the Random Forest, Decision Trees, Gradient Boosting and XGBoost algorithms  give the best results with *Dataset 5* than other algorithm-dataset combinations, grid search was performed to find the best possible result with these algorithm:
