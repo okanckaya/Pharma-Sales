@@ -52,8 +52,21 @@ Machine Learning algorithms used in these project are:
 |Support Vector Machines|164\.74|194\.61|128576\.70|207988\.71|358\.58|456\.06|0\.02|-0\.01|1\.51|1\.81|
 |Linear Regression|152\.25|192\.17|86302\.43|219131\.54|293\.77|468\.11|0\.34|-0\.06|1\.23|1\.86|
 
+## Results for Dataset III:
 
+|Model|Mean Absolute Error \(Train)|Mean Absolute Error \(Test)|Mean Squared Error \(Train)|Mean Squared Error \(Test)|Root Mean Squared Error \(Train)|Root Mean Squared Error \(Test)|R2 \(Train)|R2 \(Test)|Coefficient of Variance \(Train)|Coefficient of Variance \(Test)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|XGBoost|53\.59|137\.20|6607\.52|71193\.18|81\.28|266\.82|0\.94|0\.65|0\.34|1\.06|
+|Gradient Boosting|52\.81|133\.89|6172\.99|71790\.97|78\.56|267\.93|0\.95|0\.65|0\.33|1\.06|
+|Light GBM|30\.52|154\.70|3203\.10|84267\.08|56\.59|290\.28|0\.97|0\.59|0\.23|1\.15|
+|KNN|115\.54|159\.35|49217\.11|95121\.35|221\.84|308\.41|0\.62|0\.53|0\.93|1\.22|
+|Random Forest|16\.91|146\.01|1562\.32|97838\.59|39\.52|312\.79|0\.98|0\.52|0\.16|1\.24|
+|Decision Trees|0\.0|170\.90|0\.0|146731\.92|0\.0|383\.05|1\.0|0\.28|0\.0|1\.52|
+|Gauss NB|79\.22|171\.76|15456\.82|174229\.46|124\.32|417\.40|0\.88|0\.15|0\.52|1\.66|
+|Support Vector Machines|163\.26|193\.92|127036\.58|207198\.18|356\.42|455\.19|0\.03|-0\.00|1\.49|1\.81|
+|Linear Regression|150\.06|189\.58|86550\.57|216157\.12|294\.19|464\.92|0\.33|-0\.05|1\.23|1\.85|
 
+## Results for Dataset IV:
 
 
 
