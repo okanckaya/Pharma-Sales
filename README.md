@@ -1,6 +1,6 @@
 # Pharma Sales Prediction
 
-In this project, it is aimed to estimate the expected sales values in the January-April 2021 range over the medicine sales prices from January 2017 to January 2021.
+In this project, which was prepared within the scope of the bootcamp organized with the partnership of "Kodluyoruz" and "Patika.dev" and, sponsored by Eczacıbaşı VitrA, it is aimed to estimate the expected sales values in the January-April 2021 range over the medicine sales prices from January 2017 to January 2021.
 
 <img width="590" alt="Screen Shot 2022-03-24 at 17 31 24" src="https://user-images.githubusercontent.com/71854717/159939227-33be5655-72c1-47b5-bd6f-768a6dce2d02.png">
 
