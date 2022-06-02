@@ -94,4 +94,5 @@ Machine Learning algorithms used in these project are:
 |Gauss NB|82\.65|171\.14|16402\.83|173509\.58|128\.07|416\.54|0\.87|0\.15|0\.53|1\.65|
 |Support Vector Machines|162\.14|192\.53|126162\.40|205677\.51|355\.19|453\.51|0\.03|0\.00|1\.49|1\.80|
 
-Since the Random Forest, Decision Trees, Gradient Boosting and XGBoost algorithms  give the best results with *Dataset 5* than other algorithm-dataset combinations, grid search was performed to find the best possible result with these algorithm:
+As it can be seen that Random Forest and *Dataset 5*  give the best results. 
+
