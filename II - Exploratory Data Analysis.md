@@ -1,5 +1,7 @@
 # Data Types 
 
+When the types of variables in the data set are examined, it can be seen that there are int64, float64 and object  data types. It is clear that encoding should be done so that object type data can be used in regression analysis.
+
 |Variable|Data Type|
 |---|---|
 |Period|int64|
@@ -25,6 +27,8 @@
 # Heat Map
 
 ![image](https://user-images.githubusercontent.com/71854717/161548353-c06258a2-ac50-40f0-af19-beff196ca4c2.png)
+
+Considering the correlations between the variables (independent and dependent) in the data set, the variables showing the highest correlation with the quantity variable are "big city", "male_province", "male"; It can be seen that the variables with the lowest correlation are "CPI (Month)", "Dollar", "Season". Since the product group examined is a pharmaceutical for elderly male patients, it is quite logical that these variables are the variables with the highest and lowest correlations.
 
 # Outliers
 
