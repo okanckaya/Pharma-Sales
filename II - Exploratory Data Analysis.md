@@ -44,7 +44,7 @@ When the number of sales according to the period is examined, it can be seen fro
  * Since te Season variable also shows weak correlation with Quantity, it's also got eliminated.
  * Since Male, Male_Province and Male_Rural almost indicates the same thing, Male and Male_Rural variables eliminated due to lower correlation with Quantity.
 
-# Giving Back products:
+# Giving Back Products:
 
 |index|Period|Province|Month|Year|Season|BigCity|Region|StockMarket|DolarB|DolarS|CPI\(Year)|CPI\(Month)|Male|Male\_Province|Male\_Rural|Trends\_Eczacıbaşı|Trends\_Prostat|Med\_Deg|Quantity|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
