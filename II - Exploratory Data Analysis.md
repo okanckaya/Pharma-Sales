@@ -34,6 +34,8 @@ Considering the correlations between the variables (independent and dependent) i
 
 ![image](https://user-images.githubusercontent.com/71854717/161548548-27cc36c1-9847-4b7d-9bbd-247f6bf2a962.png)
 
+When the number of sales according to the period is examined, it can be seen from the chart with the outlier values. In the following process, two trials will be made for outlier values: Analysis by keeping and eliminating outlier values.
+
 # Dealing with Variables:
 
  * CPI(Year) and Borsa features show high correlation with each other. Beacuse of that the feature (Borsa) which correlates weaker with "Quantity" got eliminated.
@@ -61,6 +63,8 @@ Considering the correlations between the variables (independent and dependent) i
 |2019|9|Kırıkkale|0|3\.07|5\.7047|5\.715|9\.26|0\.99|152694\.0|132337\.0|52761\.0|0|38|20\.7|-7\.0|
 |2019|9|Mardin|1|3\.07|5\.7047|5\.715|9\.26|0\.99|542072\.0|916076\.0|0\.0|0|0|25\.8|-4\.0|
 |2019|9|Çanakkale|0|3\.07|5\.7047|5\.715|9\.26|0\.99|1216490\.0|163780\.0|108566\.0|0|0|23\.4|-1\.0|
+
+Since they are not too many giving back products, it is decided to keep them.
 
 # Visualization
 
