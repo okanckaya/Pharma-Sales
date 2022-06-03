@@ -93,7 +93,7 @@ Machine Learning algorithms used in these project are:
 |Support Vector Machines|161\.7|192\.04|126684\.17|206029\.24|355\.93|453\.9|0\.03|-0\.0|1\.5|1\.81|11321\.52|11724\.62|11238\.63|11013\.46|
 |Linear Regression|152\.07|196\.61|86291\.24|221149\.16|293\.75|470\.26|0\.34|-0\.07|1\.24|1\.87|21575\.49|21018\.21|20781\.85|18209\.13|
 
-As it can be seen that Random Forest and *Dataset 3*  give the best results. 
+As it can be seen that Random Forest and *Dataset 2*  give the best results. 
 
 ***MOVING AVERAGES***
 
