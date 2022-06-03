@@ -42,11 +42,7 @@ Machine Learning algorithms used in these project are:
 
 |Model|Mean Absolute Error \(Train)|Mean Absolute Error \(Test)|Mean Squared Error \(Train)|Mean Squared Error \(Test)|Root Mean Squared Error \(Train)|Root Mean Squared Error \(Test)|R2 \(Train)|R2 \(Test)|Coefficient of Variance \(Train)|Coefficient of Variance \(Test)|2020-01 Prediction|2020-02 Prediction|2020-03 Prediction|2020-04 Prediction|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Gradient Boosting|46\.30196375297474|118\.57832672164648|4726\.80481582866|48386\.466697779964|68\.75176227434945|219\.969240344599|0\.9639349119916691|0\.7648411587130084|0\.28912121241121846|0\.8750253755964761|0    20451\.541069
-dtype: float64|0    20343\.082894
-dtype: float64|0    19999\.831115
-dtype: float64|0    17678\.248091
-dtype: float64|
+|Gradient Boosting|46\.30|118\.57|4726\.80|48386\.46|68\.75|219\.96|0\.9639|0\.7648|0\.28|0\.87|20451|20343|19999|17678|
 |XGBoost|48\.12049362373849|123\.19739916558899|5145\.201954132506|54093\.88435785176|71\.73006311256464|232\.58092002107946|0\.9607425801304441|0\.73710303656273|0\.30164583608317613|0\.9251939342937137|0    19964\.216797
 dtype: float32|0    20136\.523438
 dtype: float32|0    19895\.699219
