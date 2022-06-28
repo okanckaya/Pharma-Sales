@@ -190,5 +190,6 @@ The analyzes show that the removal of outliers from the dataset affect negativel
 
 Since the results obtained in the previous analyzes were not satisfactory, it was necessary to consider of adding new parameters to the dataset. In this section, three additional columns have been added to the main data set in order to better model the upward trend in sales data: Sales data of the previous month, sales data of three months ago, average sales quantity of the last three months.
 
-Since the XGBOOST algorithm performs well in general and can work with missing data, it has been chosen in this section.
+Since the Random Forest and Gradient Boosting algorithms perform well in general, they have been chosen in this section to use with the moving averages analyzes.
+
 
