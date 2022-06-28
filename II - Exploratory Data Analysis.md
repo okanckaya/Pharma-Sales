@@ -115,5 +115,7 @@ Bar plot of Quantity-Province for three-year period. It can be seen that densely
 
 ![image](https://user-images.githubusercontent.com/71854717/161557213-28d83117-9081-4281-9c63-890c8cfd7be2.png)
 
+It can be seen that Istanbul, Ankara and Gaziantep are the top 3 cities which bought the porduct each year.
+
 ![Picture1](https://user-images.githubusercontent.com/71854717/161558467-59a47953-3054-48f4-a40b-c00834a8b439.gif)
 
